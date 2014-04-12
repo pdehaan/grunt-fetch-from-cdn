@@ -1,6 +1,6 @@
 /*
  * grunt-fetch-from-cdn
- * https://github.com/bandelde/grunt-fetch-from-cdn
+ * https://github.com/vijeysrc/grunt-fetch-from-cdn
  *
  * Copyright (c) 2014 Vijey Narayanaswamy
  * Licensed under the MIT license.
