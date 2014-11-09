@@ -30,7 +30,9 @@
     "grunt": "~0.4.4"
   },
   "keywords": [
-    "gruntplugin cdn singlefilefromcdn"
+    "gruntplugin",
+    "cdn",
+    "singlefilefromcdn"
   ],
   "dependencies": {
     "lodash": "~2.4.1",
